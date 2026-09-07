@@ -2,9 +2,17 @@
 
 Keep this ordered roughly by usefulness. Promote an idea into its own numbered file when it is actually going to be tried.
 
+## Active R&D
+
+### 002 — The Ultimate Meal
+
+Promoted to [`002-ultimate-meal.md`](./002-ultimate-meal.md).
+
+Goal: engineer one absurd but genuinely enjoyable meal/batch that can cover a bulking day's calories, protein, fibre, broad micronutrient needs and diverse plant foods with low active effort.
+
 ## Next up
 
-### 002 — Pinto beans
+### 003 — Pinto beans
 
 Compare pinto beans with black beans for:
 
@@ -13,7 +21,7 @@ Compare pinto beans with black beans for:
 - rice + bean bowls
 - chicken pairings
 
-### 003 — Frozen vegetables vs arugula
+### 004 — Frozen vegetables vs arugula
 
 Test which frozen vegetables give the best combination of price, convenience, taste, and willingness to actually eat them.
 
@@ -28,7 +36,7 @@ Candidates:
 
 Try microwave, air fryer, and skillet only if each method feels realistically repeatable.
 
-### 004 — Dried beans
+### 005 — Dried beans
 
 Only run this after canned beans have proven themselves.
 
@@ -39,7 +47,7 @@ Questions:
 - does the taste improvement justify the extra planning?
 - can a large batch be frozen conveniently?
 
-### 005 — Chicken format for tacos
+### 006 — Chicken format for tacos
 
 Compare wings with chicken thighs or another easy boneless option. Wings are already convenient; boneless chicken may win specifically for tortillas and bowls.
 
