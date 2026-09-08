@@ -1,55 +1,102 @@
 # Food Experiment
 
-A working notebook for building meals that are cheap, satisfying, nutritious, low-attention, and easy to repeat.
+A working notebook for building food that is delicious, nutritious, low-friction, easy to repeat, and flexible enough to feel different from night to night.
 
-The point is to test food in real life. Recipes earn a permanent place here by surviving ordinary evenings: low energy, limited patience, groceries running low, and a desire to eat something genuinely good.
+The project started as a cheap-meal experiment and turned into a broader question:
+
+> **How do you build a small personal food universe where boring groceries can become wildly different meals without making cooking a second job?**
+
+## Start here
+
+Open [`playbook/food-passport.md`](playbook/food-passport.md).
+
+That is the current quick-start guide: core groceries, flavour shelf, protein defaults, cuisine branches, strong first recipes, batch/reheat rules, and guest-night options.
 
 ## Current baseline
 
-Before the bean experiment, the usual rotation has included:
+The real thing to beat is extremely simple:
 
-- air-fryer chicken wings, either frozen/pre-made or home-marinated
-- white rice
-- arugula with olive oil
-- Icelandic skyr
-- flaxseed powder, hemp hearts, sunflower seeds, and other nuts/seeds in the skyr
-- cacao nibs sometimes
-- takeout such as shawarma when cooking loses the contest
+- rice cooker white rice
+- air-fryer chicken wings / chicken
+- arugula
+- olive oil
+- freshly grated garlic
+- Icelandic skyr with seeds mixed directly into the tub
+
+See [`defaults/current-default.md`](defaults/current-default.md).
+
+This baseline is strong because it requires very little hand work, very little cleanup, and almost no culinary attention.
 
 ## What to optimize for
 
 Every experiment should be judged on:
 
-1. **Taste** — would I actually want this again?
-2. **Active effort** — how many minutes require attention?
-3. **Cost** — is this meaningfully cheaper than takeout or the current default?
-4. **Satiety** — does it carry a meal well?
-5. **Protein + fiber** — especially when replacing some white rice with legumes
-6. **Cleanup** — how many annoying things need washing?
-7. **Repeatability** — can this become an automatic weeknight meal?
-8. **Ingredient overlap** — can the same groceries become several different meals?
+1. **Taste** — would I actively want this again?
+2. **Low-friction attention** — can the food mostly cook while attention goes elsewhere?
+3. **Hands-on fuss** — chopping, sticky bowls, raw-meat handling, delicate timing, and cleanup all count.
+4. **Easy calorie + protein delivery** — especially useful for the current bulk.
+5. **Nutrition** — fibre, micronutrients, fish rotation, plant diversity, and sensible protein intake.
+6. **Batch / reheat quality** — does tonight's cooking create an easy tomorrow?
+7. **Ingredient overlap** — can the same groceries travel across cuisines?
+8. **Cost** — keep it reasonable, then spend more when taste or convenience clearly improves.
+9. **Guest-worthiness when desired** — a few dishes should look far more ambitious than the work required.
 
-## Current experiment
+## Current project direction
 
-**Bean Experiment #1: black beans + tortillas.**
+The default protein pattern is now:
 
-The first pass uses canned beans because they make the test extremely easy. If beans become a frequent default, dried beans become a later experiment for cost and flavor.
+> **chicken + fish + tofu + eggs + dairy first; pork/beef as flavour-heavy rotation ingredients.**
 
-The useful core is:
+Cooking style is **phone-compatible** rather than strictly “fast”:
 
-> chicken + beans + tortilla or rice + frozen vegetables + strong sauce
+- rice cooker
+- air fryer
+- oven / sheet pan
+- braises and simmering
+- one-pot meals
+- Ziploc marinades
+- slow cooker / pressure cooker
+- casual leftovers
 
-From there, the same groceries can become tacos, bowls, wraps, or plates with very little extra work.
+A 45-minute meal can be excellent if only 8 minutes require hands.
+
+## Food-world highlights
+
+The current notebook includes strong branches for:
+
+- Taiwanese / Chinese comfort food
+- Japanese donburi and curry
+- Korean braises and rice bowls
+- Vietnamese lemongrass chicken
+- Thai curry
+- Filipino adobo
+- Mexican / broader Latin flavours with premade pico/salsa
+- shawarma and Middle-Eastern sauces
+- Indian butter chicken / curries
+- Greek lemon chicken and seafood
+- Portuguese peri-peri chicken
+- Moroccan chicken / tagine
+- pasta, ragù, baked pasta, and macarona béchamel
+- whole-side salmon and other guest-worthy low-fuss food
 
 ## Repo map
 
-- `defaults/` — meals and components already in regular rotation
-- `experiments/` — things currently being tested
+- `playbook/` — current quick-start operating guides
+- `defaults/` — meals and routines already in regular rotation
+- `experiments/` — active recipe and workflow R&D
 - `ingredients/` — groceries worth keeping around and what they combine with
-- `shopping/` — small shopping lists tied to specific experiments
-- `templates/` — a reusable experiment log
-- `recipes/` — meals that have earned promotion through repeated use
+- `shopping/` — shopping lists tied to experiments
+- `pricing/` — dated cost research
+- `research/` — broader findings and comparisons
+- `templates/` — reusable experiment logs
+- `recipes/` — meals that have earned promotion through repeated real-life use
 
 ## Promotion rule
 
-An experiment becomes a recipe when it has been made several times and still feels worth buying ingredients for. The final version should record the easiest method actually used, rather than the fanciest possible version.
+An experiment becomes a recipe when it has been made several times and still feels worth buying ingredients for.
+
+The final version should record the **easiest method actually used**, rather than the fanciest possible version.
+
+The standard is simple:
+
+> **Would future-me be happy to see this food in the fridge?**
