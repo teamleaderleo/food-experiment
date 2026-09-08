@@ -13,6 +13,7 @@ The experiments are where ideas are discovered. The compendium is where future-y
 - [`recipe-matrix.md`](recipe-matrix.md) — compare many dishes at once by protein, starch, workflow, hand-fuss, leftovers, and guest payoff.
 - [`meal-families.md`](meal-families.md) — see how dishes from different countries are variations on the same underlying cooking architecture: one-pot chicken/rice, braises, coconut curries, egg meals, fish in sauce, etc.
 - [`identity-ingredients.md`](identity-ingredients.md) — pick one high-leverage jar, paste, spice, or prepared ingredient and see the cuisines and meals it unlocks.
+- [`aromatic-bases.md`](aromatic-bases.md) — prepared / blended / frozen bases such as epis, sofrito, green seasoning, ginger-garlic paste and lemongrass paste that remove nightly chopping.
 - [`flavor-assets.md`](flavor-assets.md) — sauces, pastes, marinades, cooked bases, and freezer assets that make later meals trivial.
 - [`world-tour-index.md`](world-tour-index.md) — browse the expanding edible atlas geographically and jump into each world-tour research round.
 - [`source-library.md`](source-library.md) — curated outbound links to strong original recipes and recipe sites worth revisiting.
@@ -79,6 +80,8 @@ Buy away chopping when it is the exact thing preventing the meal:
 - jarred salsa
 - prepared chimichurri
 - pickled onions
+
+Or do the chopping once, freeze the result, and stop repeating it. See [`aromatic-bases.md`](aromatic-bases.md).
 
 ### Batch philosophy
 
