@@ -8,6 +8,13 @@ The project has grown past one “ultimate meal.” The better idea is a small p
 
 The goal is that future-you can open this file, buy a few things, follow one linked experiment, and eat something excellent without re-deriving the whole project.
 
+For deeper browsing, use the [`../compendium/`](../compendium/) reference library:
+
+- [`recipes-by-cuisine.md`](../compendium/recipes-by-cuisine.md) — pick a flavour destination
+- [`recipes-by-workflow.md`](../compendium/recipes-by-workflow.md) — pick the kind of effort available
+- [`recipe-matrix.md`](../compendium/recipe-matrix.md) — compare many dishes at once
+- [`flavor-assets.md`](../compendium/flavor-assets.md) — reusable sauces, marinades and freezer assets
+
 ---
 
 ## 1. The thing every new meal has to respect
@@ -229,6 +236,8 @@ Start here: [`experiments/002s-guest-worthy-low-fuss.md`](../experiments/002s-gu
 
 Start here: [`experiments/002t-world-tour-high-payoff.md`](../experiments/002t-world-tour-high-payoff.md) and [`experiments/002n-control-level-convenience-branches.md`](../experiments/002n-control-level-convenience-branches.md)
 
+For the much larger cross-linked world map, open [`../compendium/recipes-by-cuisine.md`](../compendium/recipes-by-cuisine.md).
+
 ---
 
 ## 6. Strong first-pass recipes
@@ -268,6 +277,8 @@ High-value fresh finishing moves:
 - fresh herbs when available
 
 See: [`experiments/002l-batch-reheat-architecture.md`](../experiments/002l-batch-reheat-architecture.md)
+
+Reusable flavour assets are indexed at [`../compendium/flavor-assets.md`](../compendium/flavor-assets.md).
 
 ---
 
