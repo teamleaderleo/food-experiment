@@ -14,6 +14,8 @@ That is the current quick-start guide: core groceries, flavour shelf, protein de
 
 For deeper browsing, open [`compendium/README.md`](compendium/README.md). The compendium lets you browse the same recipe universe by **cuisine, workflow, comparison matrix, or reusable flavour asset**.
 
+The project now also has a runnable **Food Pathfinder v0** in [`prototype/index.html`](prototype/index.html): a 36-dish / 58-node graph prototype with geography ↔ morphology switching, inventory reachability, one-purchase unlock ranking, ingredient lenses, and personal friction weights. The model and success criteria are in [`app-concept/prototype-v0-spec.md`](app-concept/prototype-v0-spec.md).
+
 ## Current baseline
 
 The real thing to beat is extremely simple:
@@ -89,6 +91,8 @@ The current notebook includes strong branches for:
 
 - `playbook/` — current quick-start operating guides
 - `compendium/` — cross-linked reference library by cuisine, workflow, matrix, and flavour asset
+- `app-concept/` — graph model, math, cartography, version-control/social concepts, and prototype specifications
+- `prototype/` — runnable Food Pathfinder experiments
 - `defaults/` — meals and routines already in regular rotation
 - `experiments/` — active recipe and workflow R&D
 - `ingredients/` — groceries worth keeping around and what they combine with
