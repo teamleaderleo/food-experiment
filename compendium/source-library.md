@@ -9,6 +9,7 @@ See also:
 - [`recipes-by-cuisine.md`](recipes-by-cuisine.md)
 - [`recipes-by-workflow.md`](recipes-by-workflow.md)
 - [`recipe-matrix.md`](recipe-matrix.md)
+- [`world-tour-index.md`](world-tour-index.md)
 
 ---
 
@@ -53,13 +54,40 @@ Internal notes: [`../experiments/002n-control-level-convenience-branches.md`](..
 
 Very useful for Chinese home cooking, rice-cooker methods and increasingly broad Asian recipe coverage.
 
-- [Ayam Kecap — Indonesian Braised Chicken](https://thewoksoflife.com/ayam-kecap-indonesian-braised-chicken/) — new Indonesian sweet-soy braise lane.
+- [Ayam Kecap — Indonesian Braised Chicken](https://thewoksoflife.com/ayam-kecap-indonesian-braised-chicken/) — Indonesian sweet-soy braise lane.
 - [Soy Sauce Chicken](https://thewoksoflife.com/soy-sauce-chicken/) — key reference for the reusable master-sauce idea.
 - [Air Fryer Dumplings](https://thewoksoflife.com/air-fryer-dumplings-from-fresh-or-frozen/) — emergency frozen-food method.
 - [Chinese Sausage Rice Cooker Rice](https://thewoksoflife.com/chinese-sausage-rice-cooker-lap-cheong/) — extremely low-attention occasional meal.
 - [Laksa Instant Ramen](https://thewoksoflife.com/laksa-instant-ramen/) — 10-minute vacation bowl.
 
 Internal notes: [`../experiments/002n-control-level-convenience-branches.md`](../experiments/002n-control-level-convenience-branches.md), [`../experiments/002u-world-tour-round-2.md`](../experiments/002u-world-tour-round-2.md).
+
+---
+
+## SBS Food / The Cook Up
+
+This has become one of the best discovery sources for the project because it covers home cooking from many cuisines and often gives very explicit prep/cook times.
+
+### Sri Lanka
+
+- [Sri Lankan Chicken Curry](https://www.sbs.com.au/food/the-cook-up-with-adam-liaw/recipe/sri-lankan-chicken-curry/r2fe4moei) — 5-minute-prep reference using roasted Sri Lankan curry powder; strong argument for buying the blend.
+- [Coconut Dal with Gai Lan and Tomato Sambol](https://www.sbs.com.au/food/the-cook-up-with-adam-liaw/recipe/coconut-dal-with-gai-lan-and-tomato-sambol/bi4jk6uu8) — creamy red-lentil/coconut lane; the fresh sambol can be simplified in the project version.
+- [Egg Curry](https://www.sbs.com.au/food/recipe/egg-curry/zxlpv2d8k) — simple coconut curry built around hard-boiled eggs.
+
+### Malaysia / Thailand / Burma
+
+- [Malaysian Chicken Curry (Kari Ayam)](https://www.sbs.com.au/food/recipe/malaysian-chicken-curry-kari-ayam/ry0v4357o) — 5-minute prep / 30-minute cook; cuisine-specific curry powder does the heavy lifting.
+- [Khao Soi](https://www.sbs.com.au/food/recipe/khao-soi-chiang-mai-coconut-curry-noodle-soup/g1lrpcu1m) — authentic-style reference with explicit note that ready-made red curry paste can replace the homemade paste.
+- [Coconut Chicken Noodle Soup / Ohn No Khao Swè](https://www.sbs.com.au/food/the-cook-up-with-adam-liaw/recipe/coconut-chicken-noodle-soup/ctj3ibw91) — 10-minute prep / 30-minute Burmese coconut noodle soup.
+
+### Lebanon / Persia / Egypt
+
+- [Easy Lebanese Chicken and Rice](https://www.sbs.com.au/food/the-cook-up-with-adam-liaw/recipe/easy-lebanese-chicken-rice/ud97r3dmz) — rice-cooker technique; project can replace or omit the red-meat mince.
+- [Tahchin](https://www.sbs.com.au/food/recipe/tahchin/onbkyo0bg) — baked saffron-yogurt rice/chicken centerpiece; guest-skill project.
+- [Adas Polow](https://www.sbs.com.au/food/recipe/rice-with-chicken-and-lentils-adas-polow/rx25bk1e5) — Persian chicken/lentil/rice centerpiece.
+- [Koshari](https://www.sbs.com.au/food/recipe/lentils-and-rice-with-tomato-koshari/l8dqrhczx) — Egyptian rice/lentil/macaroni comfort food; candidate for shortcut engineering.
+
+Internal notes: [`../experiments/002v-world-tour-round-3.md`](../experiments/002v-world-tour-round-3.md), [`../experiments/002w-world-tour-round-4.md`](../experiments/002w-world-tour-round-4.md).
 
 ---
 
@@ -92,22 +120,29 @@ Internal notes: [`../experiments/002q-white-meat-fish-tofu-first.md`](../experim
 
 ## Maangchi
 
-- [Traditional Dakbokkeumtang](https://www.maangchi.com/recipe/traditional-dakbokkeumtang) — spicy Korean chicken/potato braise; simplify with boneless thighs and frozen onion if desired.
+Excellent for Korean home-cooking technique and for seeing which dishes are genuinely everyday-simple versus project food.
 
-Internal notes: [`../experiments/002t-world-tour-high-payoff.md`](../experiments/002t-world-tour-high-payoff.md).
+- [Traditional Dakbokkeumtang](https://www.maangchi.com/recipe/traditional-dakbokkeumtang) — spicy Korean chicken/potato braise; simplify with boneless thighs and frozen onion if desired.
+- [Gyeranbap](https://www.maangchi.com/recipe/gyeranbap) — egg/rice/seaweed/soy/sesame emergency-meal family.
+- [Spicy Cod Fillets / Daegusal-jorim](https://www.maangchi.com/recipe/daegusal-jorim) — boneless cod with very short cooking time.
+- [Braised Black Cod with Radish](https://www.maangchi.com/recipe/eundaegu-jorim) — richer Korean fish-braise branch.
+- [Korean Spicy Fish Stew / Maeuntang](https://www.maangchi.com/recipe/whiting-maeuntang) — deeper seafood lane.
+
+Internal notes: [`../experiments/002t-world-tour-high-payoff.md`](../experiments/002t-world-tour-high-payoff.md), [`../experiments/002w-world-tour-round-4.md`](../experiments/002w-world-tour-round-4.md).
 
 ---
 
 ## Food Network
 
-Useful mainly for guest-mode references where presentation payoff is important.
+Useful mainly for guest-mode references and practical pressure-cooker shortcuts.
 
 - [The Best Baked Salmon](https://www.foodnetwork.com/recipes/food-network-kitchen/the-best-baked-salmon-1-8081733) — whole/large-piece salmon centerpiece logic.
 - [Whole Grilled Side of Salmon with Herb Butter](https://www.foodnetwork.com/recipes/food-network-kitchen/whole-grilled-side-of-salmon-with-herb-butter-11654682) — large-format guest salmon.
 - [Chicken Marbella, Updated](https://www.foodnetwork.com/recipes/ina-garten/chicken-marbella-updated-7609227) — marinate/bake/platter dinner-party food.
 - [Salmon en Croûte](https://www.foodnetwork.com/recipes/salmon-en-croute-2107004) — simplified pastry guest branch only.
+- [Instant-Pot Jamaican Curry Chicken](https://www.foodnetwork.com/recipes/food-network-kitchen/instant-pot-jamaican-curry-chicken-13595642) — 40-minute total / 15-minute active pressure-cooker Caribbean branch.
 
-Internal notes: [`../experiments/002s-guest-worthy-low-fuss.md`](../experiments/002s-guest-worthy-low-fuss.md).
+Internal notes: [`../experiments/002s-guest-worthy-low-fuss.md`](../experiments/002s-guest-worthy-low-fuss.md), [`../experiments/002w-world-tour-round-4.md`](../experiments/002w-world-tour-round-4.md).
 
 ---
 
@@ -116,8 +151,25 @@ Internal notes: [`../experiments/002s-guest-worthy-low-fuss.md`](../experiments/
 - [Easy Chicken Tagine](https://www.bbcgoodfood.com/recipes/easy-chicken-tagine) — lemon/olive/warm-spice guest lane.
 - [Baked Feta & Tomato Pasta](https://www.bbcgoodfood.com/recipes/baked-feta-tomato-pasta) — low-prep baking-dish pasta.
 - [Shakshuka](https://www.bbcgoodfood.com/recipes/shakshuka) — communal egg/tomato/brunch food.
+- [Jamaican Curry Chicken](https://www.bbcgoodfood.com/recipes/jamaican-curry-chicken) — coconut/potato Caribbean curry reference.
 
-Internal notes: [`../experiments/002s-guest-worthy-low-fuss.md`](../experiments/002s-guest-worthy-low-fuss.md).
+Internal notes: [`../experiments/002s-guest-worthy-low-fuss.md`](../experiments/002s-guest-worthy-low-fuss.md), [`../experiments/002w-world-tour-round-4.md`](../experiments/002w-world-tour-round-4.md).
+
+---
+
+## Eggs.ca
+
+- [Çılbır / Turkish Eggs](https://eggs.ca/recipes/cilbir-turkish-eggs/) — Greek yogurt + poached eggs + Aleppo butter + bread; huge brunch payoff from cheap ingredients.
+
+Internal notes: [`../experiments/002w-world-tour-round-4.md`](../experiments/002w-world-tour-round-4.md).
+
+---
+
+## Burmese Cookbook
+
+- [Chicken Curry, the Burmese Way](https://burmesecookbook.com/recipes/kyet-thar-hin/) — useful source for learning the *si pyan* / “oil returns” curry technique rather than merely copying a flavor list.
+
+Internal notes: [`../experiments/002w-world-tour-round-4.md`](../experiments/002w-world-tour-round-4.md).
 
 ---
 
