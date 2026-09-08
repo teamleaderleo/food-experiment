@@ -29,16 +29,19 @@ This is the pre-experiment baseline. It exists so future changes can be compared
 
 This is the operational benchmark for the project: two mostly unattended appliances, one flip, almost no chopping, very little cleanup, and a meal that is already familiar and enjoyable.
 
-## Skyr / seed bowl
+## Skyr / seed tub: the second thing to beat
 
-When used:
+This is even lower-friction than a normal “skyr bowl.”
 
-- Icelandic skyr
-- flaxseed powder
-- hemp hearts
-- sunflower seeds
-- assorted nuts/seeds as available
-- cacao nibs sometimes
+- Icelandic skyr stays in its original tub
+- flaxseed powder, hemp hearts, sunflower seeds, assorted nuts/seeds, and occasional cacao nibs can be mixed directly into the tub
+- eat spoonfuls straight from the tub as desired
+- no separate bowl
+- no formal portioning
+- no plating
+- essentially no cleanup beyond the spoon
+
+This matters because any proposed shake, yogurt bowl, dessert module, or second protein pulse is competing against a system that already has almost zero setup cost.
 
 ## Training-adjacent routine
 
@@ -46,16 +49,16 @@ When used:
 
 - unpasteurized/raw-style honey
 - eaten a few minutes before strength workouts
-- exact quantity currently unspecified
+- exact quantity does not need to be tracked unless a specific experiment depends on it
 
 Treat this primarily as a very convenient pre-workout carbohydrate/calorie module until testing shows a reason to care about the exact honey type.
 
 ### Creatine
 
 - creatine powder is part of the routine
-- exact dose/timing currently unspecified
+- exact timing is low priority
 
-For R&D, the important variable is consistency; timing can be tested separately only if it becomes useful.
+For R&D, consistency is more useful than micromanaging timing.
 
 ## Morning / tea ritual
 
@@ -81,6 +84,7 @@ The project separately needs a reliable iodized-salt source. Do not assume the k
 - predictable groceries
 - easy calorie scaling through more rice / olive oil / honey
 - protein anchor from chicken, with skyr available as a second protein pulse
+- skyr/seed tub requires essentially no meal-prep ceremony
 - arugula requires essentially zero preparation
 - fresh garlic gives a strong flavour hit for almost no cost or prep
 - meal is already personally familiar, which removes decision fatigue
@@ -89,7 +93,7 @@ The project separately needs a reliable iodized-salt source. Do not assume the k
 
 A recipe is not automatically better because it has more micronutrients, cheaper protein, or a prettier macro spreadsheet.
 
-To beat this default it should improve one or more of:
+To beat or complement this default it should improve one or more of:
 
 - palatability
 - calorie/protein delivery
@@ -105,6 +109,7 @@ without badly losing on:
 - appliance/pan count
 - eating speed
 - desire to make it again
+- friction around a second eating pulse
 
 ## Friction points worth testing
 
@@ -112,28 +117,21 @@ without badly losing on:
 - white rice contributes little fibre and relatively little protein
 - arugula can be relatively expensive and perishable compared with frozen vegetables
 - wings + rice can become repetitive even though the workflow is excellent
-- the meal's exact calories/protein are currently unknown because normal rice, wing, oil, honey and skyr portions have not been weighed
+- exact calories/protein vary with normal portion size, but the project does not need obsessive measurement to move forward
 
-## Baseline measurement to do once
+## Measurement philosophy
 
-On one completely ordinary day, without changing the meal to make the numbers prettier, record:
+Use rough quantities and package labels when they answer a useful question.
 
-- dry rice grams
-- raw/frozen wing grams and product label
-- edible wing leftovers/bones if practical
-- olive oil grams
-- arugula grams
-- garlic grams or cloves
-- skyr + seed amounts if eaten
-- honey grams before training
-- creatine dose
-- active prep minutes
-- total elapsed cooking time
-- active eating time
-- fullness at 0 / 60 / 120 / 180 min
+Exact weighing is optional rather than a standing requirement. Do it only when the result would change a decision, such as:
 
-That single measurement gives the project a real control condition.
+- comparing wings with boneless thighs
+- checking whether a bulk day is actually landing near the desired calorie range
+- estimating protein from a new recipe
+- understanding why weight is or is not moving over several weeks
+
+The default should remain normal food, not turn into a laboratory procedure.
 
 ## Current direction
 
-Keep the convenient parts of this baseline. New meal systems should compete against **rice-cooker + air-fryer parallelism**, not against an imaginary version of home cooking that requires constant attention.
+Keep the convenient parts of this baseline. New meal systems should compete against **rice-cooker + air-fryer parallelism + spoon-from-the-skyr-tub simplicity**, not against an imaginary version of home cooking that requires constant attention or formal meal prep.
