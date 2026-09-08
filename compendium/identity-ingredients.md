@@ -13,6 +13,7 @@ See also:
 - [`flavor-assets.md`](flavor-assets.md)
 - [`meal-families.md`](meal-families.md)
 - [`recipes-by-cuisine.md`](recipes-by-cuisine.md)
+- [`world-tour-index.md`](world-tour-index.md)
 - [`../playbook/food-passport.md`](../playbook/food-passport.md)
 
 ---
@@ -86,8 +87,22 @@ Unlocks:
 - coconut chicken
 - curry noodles
 - massaman chicken + potato + peanut
+- shortcut khao soi when a specific khao-soi paste is unavailable
 
-Best first uses: [`002S — Thai red curry`](../experiments/002s-guest-worthy-low-fuss.md), [`002V — massaman`](../experiments/002v-world-tour-round-3.md)
+Best first uses: [`002S — Thai red curry`](../experiments/002s-guest-worthy-low-fuss.md), [`002V — massaman`](../experiments/002v-world-tour-round-3.md), [`002W — khao soi`](../experiments/002w-world-tour-round-4.md)
+
+## Malaysian meat curry powder
+
+A particularly high-value blend because the classic kari-ayam reference is already built around it.
+
+Unlocks:
+
+- Malaysian chicken curry
+- potato curry
+- coconut curry with tofu
+- curry noodle experiments
+
+Best first use: [`002W — Malaysian kari ayam`](../experiments/002w-world-tour-round-4.md)
 
 ## Fish sauce
 
@@ -113,6 +128,19 @@ Unlocks:
 - coconut soups
 
 Best first use: [`002T — Vietnamese lemongrass chicken`](../experiments/002t-world-tour-high-payoff.md)
+
+## Pandan leaves
+
+Useful freezer ingredient rather than an everyday fresh purchase.
+
+Unlocks / supports:
+
+- Sri Lankan curries
+- Malaysian coconut dishes
+- fragrant rice
+- Southeast-Asian desserts if that branch ever opens
+
+Freeze the surplus and pull out a leaf when needed.
 
 ---
 
@@ -249,6 +277,19 @@ Unlocks:
 
 Best first use: [`002U`](../experiments/002u-world-tour-round-2.md)
 
+## Jamaican curry powder
+
+Different enough from jerk to deserve its own lane.
+
+Unlocks:
+
+- Jamaican curry chicken
+- potato/chickpea curry
+- curry rice bowls
+- curry-marinated chicken
+
+Best first use: [`002W — Jamaican curry chicken`](../experiments/002w-world-tour-round-4.md)
+
 ## Premade pico de gallo
 
 High-value convenience because the purchased product directly replaces the exact hand work the user dislikes.
@@ -322,6 +363,32 @@ Unlocks:
 
 A little goes a long way; buy only when that flavour lane is on deck.
 
+## Aleppo pepper
+
+One small spice can unlock a whole warm-fruity-chile finish profile.
+
+Useful for:
+
+- çılbır
+- yogurt sauces
+- eggs
+- roasted chicken
+- lentil soup
+- hummus / tahini bowls
+
+Best first use: [`002W — çılbır`](../experiments/002w-world-tour-round-4.md)
+
+## Baharat
+
+High-leverage warm spice blend for:
+
+- Lebanese rice
+- chicken
+- ground-meat rice dishes
+- lentil / tomato stews
+
+Best first use: [`002W — rice-cooker Lebanese chicken`](../experiments/002w-world-tour-round-4.md)
+
 ---
 
 # Ethiopia / Horn of Africa
@@ -367,7 +434,7 @@ Unlocks:
 - lentils
 - seafood curry
 
-Best first use: [`002V`](../experiments/002v-world-tour-round-3.md)
+Best first use: [`002W — low-prep Sri Lankan chicken curry`](../experiments/002w-world-tour-round-4.md)
 
 ## Curry leaves
 
@@ -378,6 +445,7 @@ Unlocks:
 - Sri Lankan chicken curry
 - Kerala fish curry
 - South Indian dal
+- Malaysian curry
 - tempering for rice/vegetables
 
 Buy once, freeze the surplus.
@@ -401,7 +469,9 @@ Unlocks:
 
 - Thai curry
 - massaman
-- Sri Lankan curry
+- Sri Lankan curry / egg curry / dal
+- Malaysian curry
+- Jamaican curry chicken
 - Kerala curry
 - laksa
 - Burmese noodles
@@ -479,6 +549,33 @@ Not specialty in themselves, but they become a sauce ingredient in:
 - Georgian satsivi
 
 This creates a rich, calorie-dense sauce family completely different from cream/coconut sauces.
+
+## Saffron
+
+Expensive per gram, but used in tiny quantities.
+
+Unlocks the distinct aroma/color of:
+
+- tahchin
+- zereshk polo
+- Persian chicken and rice
+- guest-worthy rice dishes
+
+This is a **special-meal ingredient**, not a daily pantry requirement.
+
+## Dried barberries
+
+Tangy little fruit used across Persian rice dishes.
+
+Unlocks:
+
+- tahchin
+- zereshk polo
+- jeweled / celebration rice
+
+Buy if the Persian rice lane actually gets cooked more than once.
+
+Best first use: [`002W — tahchin`](../experiments/002w-world-tour-round-4.md)
 
 ---
 
