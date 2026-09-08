@@ -11,6 +11,8 @@ The experiments are where ideas are discovered. The compendium is where future-y
 - [`recipes-by-cuisine.md`](recipes-by-cuisine.md) — pick a country / flavour family and see the strongest dishes, source recipes, and internal notes.
 - [`recipes-by-workflow.md`](recipes-by-workflow.md) — pick the kind of effort available: air fryer, one-pot, braise, rice cooker, oven, batch, guest night, etc.
 - [`recipe-matrix.md`](recipe-matrix.md) — compare many dishes at once by protein, starch, workflow, hand-fuss, leftovers, and guest payoff.
+- [`meal-families.md`](meal-families.md) — see how dishes from different countries are variations on the same underlying cooking architecture: one-pot chicken/rice, braises, coconut curries, egg meals, fish in sauce, etc.
+- [`identity-ingredients.md`](identity-ingredients.md) — pick one high-leverage jar, paste, spice, or prepared ingredient and see the cuisines and meals it unlocks.
 - [`flavor-assets.md`](flavor-assets.md) — sauces, pastes, marinades, cooked bases, and freezer assets that make later meals trivial.
 - [`source-library.md`](source-library.md) — curated outbound links to strong original recipes and recipe sites worth revisiting.
 
