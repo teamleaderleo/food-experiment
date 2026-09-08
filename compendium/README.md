@@ -14,6 +14,7 @@ The experiments are where ideas are discovered. The compendium is where future-y
 - [`meal-families.md`](meal-families.md) — see how dishes from different countries are variations on the same underlying cooking architecture: one-pot chicken/rice, braises, coconut curries, egg meals, fish in sauce, etc.
 - [`identity-ingredients.md`](identity-ingredients.md) — pick one high-leverage jar, paste, spice, or prepared ingredient and see the cuisines and meals it unlocks.
 - [`flavor-assets.md`](flavor-assets.md) — sauces, pastes, marinades, cooked bases, and freezer assets that make later meals trivial.
+- [`world-tour-index.md`](world-tour-index.md) — browse the expanding edible atlas geographically and jump into each world-tour research round.
 - [`source-library.md`](source-library.md) — curated outbound links to strong original recipes and recipe sites worth revisiting.
 
 For a short operating guide rather than a reference library, use [`../playbook/food-passport.md`](../playbook/food-passport.md).
