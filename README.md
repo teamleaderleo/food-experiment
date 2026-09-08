@@ -12,6 +12,8 @@ Open [`playbook/food-passport.md`](playbook/food-passport.md).
 
 That is the current quick-start guide: core groceries, flavour shelf, protein defaults, cuisine branches, strong first recipes, batch/reheat rules, and guest-night options.
 
+For deeper browsing, open [`compendium/README.md`](compendium/README.md). The compendium lets you browse the same recipe universe by **cuisine, workflow, comparison matrix, or reusable flavour asset**.
+
 ## Current baseline
 
 The real thing to beat is extremely simple:
@@ -68,20 +70,25 @@ The current notebook includes strong branches for:
 - Japanese donburi and curry
 - Korean braises and rice bowls
 - Vietnamese lemongrass chicken
-- Thai curry
+- Thai curry and laksa
+- Indonesian ayam kecap
 - Filipino adobo
 - Mexican / broader Latin flavours with premade pico/salsa
+- Puerto Rican arroz con pollo / pollo guisado
+- Jamaican jerk
 - shawarma and Middle-Eastern sauces
 - Indian butter chicken / curries
 - Greek lemon chicken and seafood
 - Portuguese peri-peri chicken
 - Moroccan chicken / tagine
+- Persian fesenjan
 - pasta, ragù, baked pasta, and macarona béchamel
 - whole-side salmon and other guest-worthy low-fuss food
 
 ## Repo map
 
 - `playbook/` — current quick-start operating guides
+- `compendium/` — cross-linked reference library by cuisine, workflow, matrix, and flavour asset
 - `defaults/` — meals and routines already in regular rotation
 - `experiments/` — active recipe and workflow R&D
 - `ingredients/` — groceries worth keeping around and what they combine with
