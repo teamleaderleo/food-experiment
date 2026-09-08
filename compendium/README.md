@@ -12,12 +12,15 @@ The experiments are where ideas are discovered. The compendium is where future-y
 - [`recipes-by-workflow.md`](recipes-by-workflow.md) — pick the kind of effort available: air fryer, one-pot, braise, rice cooker, oven, batch, guest night, etc.
 - [`recipe-matrix.md`](recipe-matrix.md) — compare many dishes at once by protein, starch, workflow, hand-fuss, leftovers, and guest payoff.
 - [`meal-families.md`](meal-families.md) — see how dishes from different countries are variations on the same underlying cooking architecture: one-pot chicken/rice, braises, coconut curries, egg meals, fish in sauce, etc.
+- [`food-transformation-graph.md`](food-transformation-graph.md) — formalize the whole project as ingredients + flavour assets + operations + intermediate states + dishes connected by transformation paths; foundation for a future app.
 - [`rice-passport.md`](rice-passport.md) — browse meals where the rice/starch itself carries the cuisine identity: jollof, nasi lemak, lemon rice, tomato rice, pelau, bariis, kabsa, tahchin and more.
 - [`identity-ingredients.md`](identity-ingredients.md) — pick one high-leverage jar, paste, spice, or prepared ingredient and see the cuisines and meals it unlocks.
 - [`aromatic-bases.md`](aromatic-bases.md) — prepared / blended / frozen bases such as epis, sofrito, green seasoning, ginger-garlic paste and lemongrass paste that remove nightly chopping.
 - [`flavor-assets.md`](flavor-assets.md) — sauces, pastes, marinades, cooked bases, and freezer assets that make later meals trivial.
 - [`world-tour-index.md`](world-tour-index.md) — browse the expanding edible atlas geographically and jump into each world-tour research round.
 - [`source-library.md`](source-library.md) — curated outbound links to strong original recipes and recipe sites worth revisiting.
+
+Future product concept: [`../app-concept/food-pathfinder.md`](../app-concept/food-pathfinder.md).
 
 For a short operating guide rather than a reference library, use [`../playbook/food-passport.md`](../playbook/food-passport.md).
 
