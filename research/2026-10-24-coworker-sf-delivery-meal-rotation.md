@@ -1,4 +1,101 @@
-# Coworker case study: SF delivery meal rotation
+# 🍗 Kitava Bro — SF lunch swap board
+
+**Every option, at a glance.** Similar protein, easier ordering, more flavor and crunch.  
+**Updated:** 24 Oct 2026 · **Area:** San Francisco · [Jump to Kitava swaps](#-keep-kitava-change-one-thing) · [Other restaurants](#-order-something-else) · [Delivery savings](#-delivery--cost)
+
+> [!IMPORTANT]
+> **The baseline is a model, not a measured takeout bowl.** Kitava publishes nutrition for individual full-sized servings; its BYO scoops and actual sauce portion may differ. All Kitava swap figures below use that **same full-serving model** for consistent comparisons. Every order link opens the restaurant's ordering/menu flow; customized items still need to be selected at checkout.
+
+## 🎯 TL;DR — what to try
+
+| If he wants… | Pick | kcal | Protein | Go |
+|:--|:--|--:|--:|:--|
+| 🥇 **Same protein, new restaurant** | **Ben's Chicken Hearty Bowl + 8 oz chicken side** | **950** | **72g** | **[Order Ben's](https://order.online/business/BensFastFood-421746)** |
+| 🍗 **Same chicken, nearly identical macros** | **Kitava: cumin beans instead of broccoli** | **1,068*** | **72g*** | **[Customize Kitava](https://order.online/store/Kitava-32001)** |
+| 🌰 **Biggest flavor switch at Kitava** | **Romesco instead of ginger ponzu** | **1,066*** | **75g*** | **[Customize Kitava](https://order.online/store/Kitava-32001)** |
+| 🥗 **More crunch and plants** | **MIXT Mediterranean Bowl** | **930** | **46g** | **[View exact dish](https://www.mixt.com/foods/mediterranean-bowl/)** |
+| 🍯 **Lighter chicken meal** | **Sweetgreen Hot Honey Chicken** | **845** | **49g** | **[Order Sweetgreen](https://order.sweetgreen.com/)** |
+| 🌯 **Closest carbs + calories elsewhere** | **Chipotle custom double-protein bowl** | **1,115** | **79g** | **[Build Chipotle bowl](https://www.chipotle.com/order/build/bowl)** |
+
+* Kitava estimates from its July 2026 full-serving nutrition table. Ben's, MIXT, Sweetgreen and Chipotle use published component/menu figures, subject to portion and menu changes.
+
+## 📸 See the food
+
+<table>
+<tr>
+<td width="33%" align="center">
+<a href="https://order.online/store/Kitava-32001"><img src="https://images.getbento.com/accounts/9b4396a3a90222e0b5e092d493eb64c3/media/images/41901Hero_Sesame_Chicken2.jpg" alt="Kitava menu bowl, illustrative photo; not the customized double-paprika-chicken order" width="270"></a><br>
+<b>🍗 Kitava — BYO</b><br>
+<small>Current reference: 1,072 kcal* · 72g protein*</small><br>
+<a href="https://order.online/store/Kitava-32001">Choose double paprika chicken →</a>
+</td>
+<td width="33%" align="center">
+<a href="https://order.online/business/BensFastFood-421746"><img src="https://images.squarespace-cdn.com/content/v1/5e9905cd21f79a290c3699ed/70f22779-5c87-4ea3-b6d6-35a0b4962160/chicken-hearty-bowl.jpg" alt="Ben's Chicken Hearty Bowl; additional chicken side is not pictured" width="270"></a><br>
+<b>🥇 Ben's Chicken Hearty + chicken side</b><br>
+<small>950 kcal · 72g protein</small><br>
+<a href="https://order.online/business/BensFastFood-421746">Choose bowl + 8 oz chicken →</a>
+</td>
+<td width="33%" align="center">
+<a href="https://order.sweetgreen.com/"><img src="https://images.ctfassets.net/eum7w7yri3zr/yHFY7qx79RaAmL2g7rK2r/c20e65a280981001f7c0093595e81ff9/SG_Web_Image_Plate_Hot_Honey_Chicken.png?q=75&amp;w=600" alt="Sweetgreen Hot Honey Chicken plate" width="270"></a><br>
+<b>🍯 Sweetgreen Hot Honey Chicken</b><br>
+<small>845 kcal · 49g protein</small><br>
+<a href="https://order.sweetgreen.com/">Select Hot Honey Chicken →</a>
+</td>
+</tr>
+</table>
+
+<sub>Images link to the restaurants' own menu/order pages. Kitava photo is a **representative menu bowl**; Ben's photo shows the Hearty Bowl **without the additional chicken side**. Actual delivery appearance varies. Photos hosted by Kitava, Ben's, and Sweetgreen.</sub>
+
+## 🍗 Keep Kitava, change one thing
+
+**Fixed components:** double paprika chicken + jasmine rice. Each option uses two vegetable selections and one sauce, matching the [Kitava BYO menu](https://www.kitava.com/menu/mix-match-bowls-mission-district/).
+
+| Choose this variation | kcal* | Protein* | Carbs* | Fat* | Why | Action |
+|:--|--:|--:|--:|--:|:--|:--|
+| **Original:** sweet potato + broccoli + ginger ponzu | **1,072** | **71.8g** | **132.3g** | **28.2g** | Familiar baseline | [Configure](https://order.online/store/Kitava-32001) |
+| **Cumin beans** instead of broccoli | **1,068** | **71.9g** | **133.9g** | **27.1g** | **Closest macro match**, different plant protein | [Configure](https://order.online/store/Kitava-32001) |
+| **Za'atar cauliflower** instead of broccoli | **1,114** | **71.2g** | **132.2g** | **33.4g** | Herbier, earthier vegetable | [Configure](https://order.online/store/Kitava-32001) |
+| **Fingerling potatoes** instead of sweet potatoes | **998** | **71.4g** | **117.4g** | **27.1g** | More savory, less orange mush | [Configure](https://order.online/store/Kitava-32001) |
+| **Romesco** instead of ginger ponzu | **1,066** | **74.6g** | **104.4g** | **39.5g** | Nutty, savory sauce; lower sugar | [Configure](https://order.online/store/Kitava-32001) |
+| **One chicken + one salmon** (same sides) | **1,034** | **71.8g** | **130.3g** | **24.2g** | Fish rotation; **mixed-protein option needs confirmation** | [Menu](https://www.kitava.com/menu/mix-match-bowls-mission-district/) |
+
+**Ultra-low-effort extras:** freshly cracked black pepper 🌶️ · lime 🍋 · pickled onion 🧅 · crunchy cucumber/radish 🥒 · toasted seeds 🌻. Check available toppings; seeds and other additions have their own calories.
+
+## 🛵 Order something else
+
+| Restaurant | Exactly what to select | Published / calculated macros | Why he'd try it | Order |
+|:--|:--|:--|:--|:--|
+| **🥇 Ben's Fast Food** | **Chicken Hearty Bowl** + **8 oz Slow Roasted Chicken side** | **950 kcal · 72g P · 65g C · 40g F · 10g fiber** | Same protein, plus cucumber, pickled onion, sunflower seeds; extra chicken portion is separate | **[Order](https://order.online/business/BensFastFood-421746)** · [nutrition](https://bensfastfood.com/menu) |
+| **🥗 MIXT** | **Mediterranean Bowl (standard)** | **930 kcal · 46g P · 80g C · 14g fiber**; fat unlisted | Quinoa, cabbage, avocado, walnuts, crispy pita, pickled onion | **[Exact dish](https://www.mixt.com/foods/mediterranean-bowl/)** · [order](https://www.order.mixt.com/) |
+| **🍯 Sweetgreen** | **Hot Honey Chicken (standard)** | **845 kcal · 49g P · 66g C · 38g F · 7g fiber** | Chicken, cabbage slaw, crispy onions, quinoa, sweet potatoes | **[Order](https://order.sweetgreen.com/)** · [nutrition](https://www.sweetgreen.com/nutrition/) |
+| **🌯 Chipotle** | **Bowl: 2× white rice, black beans, 1× chicken + 1× steak, fajita veggies, corn salsa, tomato salsa, cheese** | **1,115 kcal · 79g P · 129g C · 32g F** | Closest restaurant alternative on both calories and carbs; more ingredients, more chewing | **[Build a bowl](https://www.chipotle.com/order/build/bowl)** · [nutrition PDF](https://www.chipotle.com/content/dam/chipotle/menu/nutrition/US-Nutrition-Facts-Paper-Menu-3-2025.pdf) |
+
+**Ben's calculation:** Hearty Bowl **610 kcal / 27g protein** + 8 oz chicken side **340 kcal / 45g protein**. For **Chipotle**, the listed totals are sums of the specific standard portions above. For MIXT, extra chicken requires a new nutrition calculation; the current table describes its **standard** order. Standard portions can vary in actual preparation.
+
+## 💸 Delivery & cost, in 20 seconds
+
+✅ **Kitava delivers through its own ordering site** — pickup is optional. Its direct checkout can still use a delivery partner.
+
+| Check | Kitava site | DoorDash + DashPass |
+|:--|:--|:--|
+| Start | **[Kitava direct ordering](https://order.online/store/Kitava-32001)** | **[DoorDash Kitava](https://www.doordash.com/store/32001)** |
+| BYO advertised starting price (delivery view) | **~$11.99 before add-ons** | Price depends on menu |
+| Rewards | [Kitava Rewards](https://www.kitava.com/rewards/): 5 points per $1; 500 points = $5 credit (~5% back when used) | No Kitava Rewards |
+| Fees | Delivery/service/tax/tip plus applicable surcharge | DashPass may reduce eligible delivery/service fees |
+| Best decision | **Compare the final delivered checkout for the identical double-chicken bowl at the same address.** | |
+
+**At 40 orders/month:** saving **$1** each = **$40/month**; saving **$2** each = **$80/month**. These are examples, **not negotiated discounts**. Rewards restrictions and expiry apply; see [Kitava's terms](https://www.kitava.com/rewards/).
+
+## 🧪 The tiny experiment
+
+1. **Same restaurant:** Kitava **cumin beans** or **romesco**.
+2. **Same protein target:** Ben's **Hearty Bowl + 8 oz chicken**.
+3. **More variety:** MIXT Mediterranean or Sweetgreen Hot Honey.
+4. **Macro-heavy wildcard:** the exact Chipotle double-protein build.
+5. **Save whichever two new orders he actually likes.** Also compare Kitava direct vs DashPass once.
+
+<details>
+<summary><b>📐 Full reference calculations, source notes & detailed research</b> — expand</summary>
 
 **Research snapshot:** 2026-10-24  
 **Status:** candidate orders for a low-effort weekday routine; revisit menu prices, nutrition, and delivery eligibility at checkout.  
@@ -107,3 +204,5 @@ Do this once with the **same bowl and same office delivery address** and save th
 5. Keep the **two or three winners** as saved repeat orders. Recheck nutrition labels/menu formulations when they change.
 
 This is an informal menu-comparison project, not a personal nutrition diagnosis. The current baseline is a **full-component serving model**; a food scale or confirmed BYO portions would give a closer match to what actually arrives.
+
+</details>
