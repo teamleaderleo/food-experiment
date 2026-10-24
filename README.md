@@ -16,6 +16,10 @@ For deeper browsing, open [`compendium/README.md`](compendium/README.md). The co
 
 The project now also has a runnable **Food Pathfinder v0** in [`prototype/index.html`](prototype/index.html): a 36-dish / 58-node graph prototype with geography ↔ morphology switching, inventory reachability, one-purchase unlock ranking, ingredient lenses, and personal friction weights. The model and success criteria are in [`app-concept/prototype-v0-spec.md`](app-concept/prototype-v0-spec.md).
 
+## Coworker case study: SF delivery meal rotation
+
+The [coworker meal-rotation note](research/2026-10-24-coworker-sf-delivery-meal-rotation.md) compares Kitava's double-paprika-chicken reference bowl with low-effort alternatives from Kitava, Ben's, MIXT, and Sweetgreen. It includes **published macro calculations, source links, texture/flavor improvements, direct Kitava delivery and rewards, and a DashPass checkout comparison**. The case is anonymous; estimated component servings are labeled as such.
+
 ## Current baseline
 
 The real thing to beat is extremely simple:
