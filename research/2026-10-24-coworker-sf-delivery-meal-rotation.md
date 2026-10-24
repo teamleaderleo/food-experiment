@@ -1,50 +1,109 @@
-# 🍗 Kitava Bro — SF lunch swap board
+# 🍗 Kitava Bro — San Francisco lunch menu
 
-**Every option, at a glance.** Similar protein, easier ordering, more flavor and crunch.  
-**Updated:** 24 Oct 2026 · **Area:** San Francisco · [Jump to Kitava swaps](#-keep-kitava-change-one-thing) · [Other restaurants](#-order-something-else) · [Delivery savings](#-delivery--cost)
+**Skip the research. Pick a meal and open the ordering page.** The food photos and macros are together; exact customization instructions are directly under each photo.
 
-> [!IMPORTANT]
-> **The baseline is a model, not a measured takeout bowl.** Kitava publishes nutrition for individual full-sized servings; its BYO scoops and actual sauce portion may differ. All Kitava swap figures below use that **same full-serving model** for consistent comparisons. Every order link opens the restaurant's ordering/menu flow; customized items still need to be selected at checkout.
+**Best first try:** [Ben's — Chicken Hearty Bowl + 8 oz chicken](https://order.online/business/BensFastFood-421746) (**950 kcal / 72g protein**).  
+**Least disruptive:** [Kitava — double paprika chicken with cumin beans instead of broccoli](https://order.online/store/Kitava-32001) (**~1,068 kcal / ~72g protein**).  
+**For flavor:** [Kitava — switch ginger ponzu to romesco](https://order.online/store/Kitava-32001) (**~1,066 kcal / ~75g protein**).
 
-## 🎯 TL;DR — what to try
+> **Nutrition note:** Kitava totals are **modeled from its published full component serving sizes**, not weighed BYO portions. All photos from restaurant sites or credited restaurant coverage; where the exact customized order cannot be photographed, the image is labeled **illustrative**. Links take you to ordering/menu pages; choose the specified customizations.
 
-| If he wants… | Pick | kcal | Protein | Go |
-|:--|:--|--:|--:|:--|
-| 🥇 **Same protein, new restaurant** | **Ben's Chicken Hearty Bowl + 8 oz chicken side** | **950** | **72g** | **[Order Ben's](https://order.online/business/BensFastFood-421746)** |
-| 🍗 **Same chicken, nearly identical macros** | **Kitava: cumin beans instead of broccoli** | **1,068*** | **72g*** | **[Customize Kitava](https://order.online/store/Kitava-32001)** |
-| 🌰 **Biggest flavor switch at Kitava** | **Romesco instead of ginger ponzu** | **1,066*** | **75g*** | **[Customize Kitava](https://order.online/store/Kitava-32001)** |
-| 🥗 **More crunch and plants** | **MIXT Mediterranean Bowl** | **930** | **46g** | **[View exact dish](https://www.mixt.com/foods/mediterranean-bowl/)** |
-| 🍯 **Lighter chicken meal** | **Sweetgreen Hot Honey Chicken** | **845** | **49g** | **[Order Sweetgreen](https://order.sweetgreen.com/)** |
-| 🌯 **Closest carbs + calories elsewhere** | **Chipotle custom double-protein bowl** | **1,115** | **79g** | **[Build Chipotle bowl](https://www.chipotle.com/order/build/bowl)** |
-
-* Kitava estimates from its July 2026 full-serving nutrition table. Ben's, MIXT, Sweetgreen and Chipotle use published component/menu figures, subject to portion and menu changes.
-
-## 📸 See the food
+## 📸 Pick by picture — six ready-to-try orders
 
 <table>
 <tr>
-<td width="33%" align="center">
-<a href="https://order.online/store/Kitava-32001"><img src="https://images.getbento.com/accounts/9b4396a3a90222e0b5e092d493eb64c3/media/images/41901Hero_Sesame_Chicken2.jpg" alt="Kitava menu bowl, illustrative photo; not the customized double-paprika-chicken order" width="270"></a><br>
-<b>🍗 Kitava — BYO</b><br>
-<small>Current reference: 1,072 kcal* · 72g protein*</small><br>
-<a href="https://order.online/store/Kitava-32001">Choose double paprika chicken →</a>
+<td width="33%" align="center" valign="top">
+<a href="https://order.online/business/BensFastFood-421746"><img src="https://images.squarespace-cdn.com/content/v1/5e9905cd21f79a290c3699ed/70f22779-5c87-4ea3-b6d6-35a0b4962160/chicken-hearty-bowl.jpg" width="260" alt="Ben's actual Chicken Hearty Bowl (extra chicken side ordered separately)"></a><br>
+<strong>🥇 BEN'S — SAME PROTEIN</strong><br>
+Chicken Hearty Bowl <strong>+ 8 oz Slow Roasted Chicken side</strong><br>
+<strong>950 kcal · 72g protein</strong><br>
+Crisp cucumber, pickled onions, sunflower seeds<br>
+<a href="https://order.online/business/BensFastFood-421746"><strong>OPEN ORDER →</strong></a>
 </td>
-<td width="33%" align="center">
-<a href="https://order.online/business/BensFastFood-421746"><img src="https://images.squarespace-cdn.com/content/v1/5e9905cd21f79a290c3699ed/70f22779-5c87-4ea3-b6d6-35a0b4962160/chicken-hearty-bowl.jpg" alt="Ben's Chicken Hearty Bowl; additional chicken side is not pictured" width="270"></a><br>
-<b>🥇 Ben's Chicken Hearty + chicken side</b><br>
-<small>950 kcal · 72g protein</small><br>
-<a href="https://order.online/business/BensFastFood-421746">Choose bowl + 8 oz chicken →</a>
+<td width="33%" align="center" valign="top">
+<a href="https://order.online/store/Kitava-32001"><img src="https://media.timeout.com/images/105498260/1536/1152/image.jpg" width="260" alt="Illustrative Kitava chicken-and-broccoli rice bowl photograph; not the custom paprika chicken bowl"></a><br>
+<strong>🍗 KITAVA — TINIEST CHANGE</strong><br>
+Double paprika chicken, rice, sweet potatoes, <strong>cumin beans instead of broccoli</strong>, ponzu<br>
+<strong>~1,068 kcal · ~72g protein</strong><br>
+Familiar chicken with a legume swap<br>
+<a href="https://order.online/store/Kitava-32001"><strong>OPEN BYO BOWL →</strong></a>
 </td>
-<td width="33%" align="center">
-<a href="https://order.sweetgreen.com/"><img src="https://images.ctfassets.net/eum7w7yri3zr/yHFY7qx79RaAmL2g7rK2r/c20e65a280981001f7c0093595e81ff9/SG_Web_Image_Plate_Hot_Honey_Chicken.png?q=75&amp;w=600" alt="Sweetgreen Hot Honey Chicken plate" width="270"></a><br>
-<b>🍯 Sweetgreen Hot Honey Chicken</b><br>
-<small>845 kcal · 49g protein</small><br>
-<a href="https://order.sweetgreen.com/">Select Hot Honey Chicken →</a>
+<td width="33%" align="center" valign="top">
+<a href="https://www.mixt.com/foods/mediterranean-bowl/"><img src="https://www.mixt.com/wp-content/uploads/2025/05/Mixt_MediterraneanBowl_1200x1200.jpg" width="260" alt="MIXT Mediterranean Bowl, official menu photo"></a><br>
+<strong>🥗 MIXT — CRUNCH + VARIETY</strong><br>
+Mediterranean Bowl as sold; chicken, quinoa, cabbage, avocado, nuts, pita crisps<br>
+<strong>930 kcal · 46g protein</strong><br>
+A more varied chicken-forward lunch<br>
+<a href="https://www.mixt.com/foods/mediterranean-bowl/"><strong>SEE EXACT DISH →</strong></a>
+</td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top">
+<a href="https://order.sweetgreen.com/"><img src="https://images.ctfassets.net/eum7w7yri3zr/yHFY7qx79RaAmL2g7rK2r/c20e65a280981001f7c0093595e81ff9/SG_Web_Image_Plate_Hot_Honey_Chicken.png?q=75&amp;w=600" width="260" alt="Sweetgreen Hot Honey Chicken plate, official menu photo"></a><br>
+<strong>🍯 SWEETGREEN — LIGHTER</strong><br>
+Select <strong>Hot Honey Chicken</strong>: chicken, quinoa, sweet potatoes, crisp slaw + onions<br>
+<strong>845 kcal · 49g protein</strong><br>
+Sweet/savory with a crunchier finish<br>
+<a href="https://order.sweetgreen.com/"><strong>OPEN ORDER →</strong></a>
+</td>
+<td width="33%" align="center" valign="top">
+<a href="https://www.chipotle.com/order/build/burrito-bowl"><img src="https://www.chipotle.com/content/dam/chipotle/menu-item-campaigns/honey-chicken/us/2025/start-your-order/SYO%20Mobile-330x174-CHC%20Burrito%20Bowl-2x.png" width="260" alt="Illustrative Chipotle burrito bowl; different protein and toppings from the custom chicken-and-steak combination"></a><br>
+<strong>🌯 CHIPOTLE — BIG MACRO MATCH</strong><br>
+<strong>2× white rice</strong>, black beans, chicken + steak, fajita veg, corn + tomato salsa, cheese<br>
+<strong>1,115 kcal · 79g protein</strong><br>
+Closest overall calorie/carb match elsewhere<br>
+<a href="https://www.chipotle.com/order/build/burrito-bowl"><strong>BUILD THIS BOWL →</strong></a>
+</td>
+<td width="33%" align="center" valign="top">
+<a href="https://order.online/store/Kitava-32001"><img src="https://images.getbento.com/accounts/9b4396a3a90222e0b5e092d493eb64c3/media/images/74993Hero_Sauces.jpg" width="260" alt="Kitava assortment of sauces, illustrative official restaurant photo"></a><br>
+<strong>🌶️ KITAVA — SAUCE UPGRADE</strong><br>
+Keep double paprika chicken, rice, sweet potatoes, broccoli; <strong>romesco instead of ponzu</strong><br>
+<strong>~1,066 kcal · ~75g protein</strong><br>
+Savory roasted-pepper-and-seed flavor<br>
+<a href="https://order.online/store/Kitava-32001"><strong>OPEN BYO BOWL →</strong></a>
 </td>
 </tr>
 </table>
 
-<sub>Images link to the restaurants' own menu/order pages. Kitava photo is a **representative menu bowl**; Ben's photo shows the Hearty Bowl **without the additional chicken side**. Actual delivery appearance varies. Photos hosted by Kitava, Ben's, and Sweetgreen.</sub>
+<sub><strong>Photo credits:</strong> Ben's Fast Food, MIXT, Sweetgreen, Chipotle and Kitava (via its official site), plus a Kitava food photograph via <a href="https://www.timeout.com/san-francisco/restaurants/best-gluten-free-restaurants-in-san-francisco">Time Out</a>. The Ben's photo omits the separately purchased 8 oz chicken side. Kitava and Chipotle photos are representative; double-protein and sauce swaps are configured in the order flow.</sub>
+
+## ⚡ Every order in one table
+
+| 🍽️ Select this | kcal | Protein | Open |
+|:--|--:|--:|:--|
+| **Kitava original** — double paprika chicken, jasmine rice, sweet potatoes, broccoli, ponzu | ~1,072 | ~72g | [Kitava BYO](https://order.online/store/Kitava-32001) |
+| **Kitava + cumin beans** instead of broccoli | ~1,068 | ~72g | [Kitava BYO](https://order.online/store/Kitava-32001) |
+| **Kitava + za'atar cauliflower** instead of broccoli | ~1,114 | ~71g | [Kitava BYO](https://order.online/store/Kitava-32001) |
+| **Kitava + fingerling potatoes** instead of sweet potatoes | ~998 | ~71g | [Kitava BYO](https://order.online/store/Kitava-32001) |
+| **Kitava + romesco** instead of ponzu | ~1,066 | ~75g | [Kitava BYO](https://order.online/store/Kitava-32001) |
+| **Kitava chicken + salmon** (one serving of each, availability to confirm) | ~1,034 | ~72g | [Kitava menu](https://www.kitava.com/menu/mix-match-bowls-mission-district/) |
+| **Ben's Hearty Chicken Bowl + 8 oz chicken side** | 950 | 72g | [Ben's ordering](https://order.online/business/BensFastFood-421746) |
+| **MIXT Mediterranean Bowl** (standard) | 930 | 46g | [Exact MIXT dish](https://www.mixt.com/foods/mediterranean-bowl/) |
+| **Sweetgreen Hot Honey Chicken** (standard) | 845 | 49g | [Sweetgreen ordering](https://order.sweetgreen.com/) |
+| **Chipotle double-protein bowl** (specific ingredient selection in photo card) | 1,115 | 79g | [Chipotle builder](https://www.chipotle.com/order/build/burrito-bowl) |
+
+**For Kitava orders:** choose **BYO Bowl → jasmine rice → double paprika chicken → the two named vegetables → the named sauce**. For salmon/chicken mixing, confirm whether a second protein or side is allowed. Portions, availability, and final delivery prices depend on the selected store.
+
+## 🥦 A little extra Kitava visual inspiration
+
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="https://images.getbento.com/accounts/9b4396a3a90222e0b5e092d493eb64c3/media/images/62494Hero_Small_Plates_02.jpg" width="360" alt="Kitava sides and small plates, representative official photo"><br>
+<strong>Veggie swaps</strong> · cumin beans, cauliflower, fingerling potatoes, or a side with more texture.<br>
+<a href="https://www.kitava.com/kitava-mission-district-menus/">Browse Kitava vegetables and sides →</a>
+</td>
+<td width="50%" align="center">
+<img src="https://images.getbento.com/accounts/9b4396a3a90222e0b5e092d493eb64c3/media/images/18464Hero_Full_Menu_01.jpg" width="360" alt="Kitava assorted food from the official restaurant photo gallery; illustrative"><br>
+<strong>Same restaurant, different experience</strong> · try a new sauce and add fresh black pepper or a crunchy garnish.<br>
+<a href="https://order.online/store/Kitava-32001">Customize the usual bowl →</a>
+</td>
+</tr>
+</table>
+
+[📘 Kitava's nutrition PDF (July 2026)](https://drive.google.com/file/d/16KjwsA3KS0a9AawL2YfvlBaRO-dCWCCi/view) · [🥗 MIXT nutrition calculator](https://www.mixt.com/nutrition-calculator/) · [🍯 Sweetgreen nutrition guide](https://www.sweetgreen.com/nutrition/) · [🍗 Ben's menu and macros](https://bensfastfood.com/menu) · [🌯 Chipotle nutrition](https://www.chipotle.com/nutrition-calculator)
+
+---
 
 ## 🍗 Keep Kitava, change one thing
 
